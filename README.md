@@ -1,5 +1,5 @@
 # unity-obs-screenrecord
-Script to automatically screen record unity projects for using (https://obsproject.com/)[Open Broadcaster Software (OBS)].
+Script to automatically screen record unity projects for using [Open Broadcaster Software](https://obsproject.com/) (OBS).
 
 This project provides a Unitypackage which can be used to start/stop OBS screen recording without interrupting Unity. It works by starting OBS in the background, using the following commandline:
 
